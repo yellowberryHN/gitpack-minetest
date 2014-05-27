@@ -1,7 +1,7 @@
 gitpack
 =======
 
-The GitPack! The Open Minetest/Minecraft Texture Pack!
+The GitPack! The Open, 32x32 Minetest/Minecraft Texture Pack!
 
 Feel free to fork and contribute!
 
