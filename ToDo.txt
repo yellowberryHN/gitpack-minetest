@@ -3,10 +3,9 @@ This is a list of textures that need to be completed to encompass the whole of m
 ================================
 Required For Any Release:
 ================================
-default_wood
+
 default_desert_stone
 default_desert_sand
-default_leaves
 default_jungletree
 default_jungletree_top
 default_junglewood
@@ -15,7 +14,6 @@ crack_anylength
 
 All of the farming mod
 All of the wool mod
-All of the buckets mod
 
 ================================
 In default:
@@ -73,7 +71,6 @@ ladder
 lava
 lava_flowing_animated
 lava_source_animated
-leaves
 mese_block
 mese_crystal
 mese_crystal_fragment
@@ -121,9 +118,8 @@ bones_rear
 ================================
 In bucket:
 ================================
-bucket
-bucket_water
-bucket_lava
+
+--bucket is comepleted!
 
 ================================
 In doors:
