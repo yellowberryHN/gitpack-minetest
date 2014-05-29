@@ -4,7 +4,6 @@ This is a list of textures that need to be completed to encompass the whole of m
 Required For Any Release:
 ================================
 default_wood
-default_sand
 default_desert_stone
 default_desert_sand
 default_leaves
@@ -88,7 +87,6 @@ rail
 rail_crossing
 rail_curved
 rail_tjunction
-sand
 sandstone
 sandstone_brick
 scorched_stuff
