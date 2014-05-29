@@ -39,7 +39,6 @@ clay_lump
 cloud
 coal_block
 coal_lump
-cobble
 copper_block
 copper_ingot
 copper_lump
@@ -98,7 +97,6 @@ snow
 snow_side
 steel_block
 steel_ingot
-stone
 stone_brick
 tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
 torch
