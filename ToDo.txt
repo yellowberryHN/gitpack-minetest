@@ -17,6 +17,10 @@ default_jungleleaves
 default_mineral_coal/iron/mese/gold/copper/diamond
 crack_anylength
 
+All of the farming mod
+All of the wool mod
+All of the buckets mod
+
 ================================
 In default:
 ================================
