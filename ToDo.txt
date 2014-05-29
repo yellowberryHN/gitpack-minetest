@@ -4,7 +4,6 @@ This is a list of textures that need to be completed to encompass the whole of m
 Required For Any Release:
 ================================
 default_wood
-default_sand
 default_desert_stone
 default_desert_sand
 default_leaves
@@ -12,8 +11,11 @@ default_jungletree
 default_jungletree_top
 default_junglewood
 default_jungleleaves
-default_mineral_coal/iron/mese/gold/copper/diamond
 crack_anylength
+
+All of the farming mod
+All of the wool mod
+All of the buckets mod
 
 ================================
 In default:
@@ -75,7 +77,6 @@ leaves
 mese_block
 mese_crystal
 mese_crystal_fragment
-mineral_coal/copper/diamond/iron/gold/mese
 mossy_cobble
 nc_back
 nc_front
@@ -88,7 +89,6 @@ rail
 rail_crossing
 rail_curved
 rail_tjunction
-sand
 sandstone
 sandstone_brick
 scorched_stuff
