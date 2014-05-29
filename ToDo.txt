@@ -8,14 +8,12 @@ default_jungletree
 default_jungletree_top
 default_junglewood
 default_jungleleaves
-crack_anylength
 
 ================================
 In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
-*crack_anylength
 apple
 book
 bookshelf
@@ -61,9 +59,6 @@ jungletree_top
 junglewood
 jungleleaves
 ladder
-lava
-lava_flowing_animated
-lava_source_animated
 mese_block
 mese_crystal
 mese_crystal_fragment
