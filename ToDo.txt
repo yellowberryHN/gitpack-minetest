@@ -119,7 +119,7 @@ bones_rear
 In bucket:
 ================================
 
---bucket is comepleted!
+--bucket is completed!
 
 ================================
 In doors:
