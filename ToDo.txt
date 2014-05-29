@@ -4,8 +4,6 @@ This is a list of textures that need to be completed to encompass the whole of m
 Required For Any Release:
 ================================
 
-default_desert_stone
-default_desert_sand
 default_jungletree
 default_jungletree_top
 default_junglewood
@@ -39,8 +37,6 @@ coal_lump
 copper_block
 copper_ingot
 copper_lump
-desert_sand
-desert_stone
 desert_stone_brick
 diamond
 dry_shrub
