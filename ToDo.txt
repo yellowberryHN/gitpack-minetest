@@ -12,9 +12,6 @@ default_junglewood
 default_jungleleaves
 crack_anylength
 
-All of the farming mod
-All of the wool mod
-
 ================================
 In default:
 ================================
@@ -102,9 +99,6 @@ torch_on_ceiling
 torch_on_ceiling_animated
 torch_on_floor
 torch_on_floor_animated
-water
-water_source_animated
-water_flowing_animated
 
 ================================
 In bones:
@@ -119,7 +113,7 @@ bones_rear
 In bucket:
 ================================
 
---bucket is comepleted!
+--bucket is completed!
 
 ================================
 In doors:
