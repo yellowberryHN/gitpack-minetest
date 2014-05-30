@@ -15,7 +15,6 @@ In default:
 Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
 book
-bookshelf
 brick
 bronze_block
 bronze_ingot
@@ -25,7 +24,6 @@ chest_front
 chest_side
 chest_top
 chest_lock
-clay
 clay_brick
 clay_lump
 cloud
@@ -47,8 +45,6 @@ furnace_top
 gold_block
 gold_ingot
 gold_lump
-gravel
-ice
 iron_lump
 junglegrass
 junglesapling
@@ -65,7 +61,6 @@ nc_back
 nc_front
 nc_rb
 nc_side
-obsidian
 paper
 papyrus
 rail
