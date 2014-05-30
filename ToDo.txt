@@ -1,7 +1,7 @@
 This is a list of textures that need to be completed to encompass the whole of minetest_game
 
 ================================
-Required For Any Release:
+High priority:
 ================================
 
 default_jungletree
@@ -157,14 +157,8 @@ fire_basic_flame_animated
 ================================
 In flowers:
 ================================
-Note: append 'flowers_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
-dandelion_white
-dandelion_yellow
-geranium
-rose
-tulip
-viola
+--Flowers is completed!
 
 ================================
 In legacy:
