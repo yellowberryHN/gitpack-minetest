@@ -45,8 +45,6 @@ furnace_top
 gold_block
 gold_ingot
 gold_lump
-gravel
-ice
 iron_lump
 junglegrass
 junglesapling
@@ -63,7 +61,6 @@ nc_back
 nc_front
 nc_rb
 nc_side
-obsidian
 paper
 papyrus
 rail
