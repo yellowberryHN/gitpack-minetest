@@ -189,20 +189,5 @@ steel_bottle_inv
 ================================
 In wool:
 ================================
-Note: append 'wool_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
-black
-blue
-brown
-cyan
-dark_green
-dark_grey
-green
-grey
-magenta
-orange
-pink
-red
-violet
-white
-yellow
+--wool is completed!
