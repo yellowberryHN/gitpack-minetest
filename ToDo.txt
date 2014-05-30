@@ -14,9 +14,7 @@ In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
-apple
 book
-bookshelf
 brick
 bronze_block
 bronze_ingot
@@ -26,7 +24,6 @@ chest_front
 chest_side
 chest_top
 chest_lock
-clay
 clay_brick
 clay_lump
 cloud
@@ -35,7 +32,6 @@ coal_lump
 copper_block
 copper_ingot
 copper_lump
-desert_stone_brick
 diamond
 dry_shrub
 fence
@@ -49,8 +45,6 @@ furnace_top
 gold_block
 gold_ingot
 gold_lump
-gravel
-ice
 iron_lump
 junglegrass
 junglesapling
@@ -67,22 +61,18 @@ nc_back
 nc_front
 nc_rb
 nc_side
-obsidian
 paper
 papyrus
 rail
 rail_crossing
 rail_curved
 rail_tjunction
-sandstone
-sandstone_brick
 scorched_stuff
 sign_wall
 snow
 snow_side
 steel_block
 steel_ingot
-stone_brick
 tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
 torch
 torch_animated
