@@ -70,7 +70,7 @@ scorched_stuff
 sign_wall
 steel_block
 steel_ingot
-tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
+tool_bronzeshovel/bronzesword/diamondshovel/diamondsword/meseshovel/mesesword/steelshovel/steelsword/stoneshovel/stonesword/woodshovel/woodsword
 torch
 torch_animated
 torch_on_ceiling
