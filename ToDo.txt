@@ -70,7 +70,6 @@ scorched_stuff
 sign_wall
 steel_block
 steel_ingot
-tool_bronzeshovel/bronzesword/diamondshovel/diamondsword/meseshovel/mesesword/steelshovel/steelsword/stoneshovel/stonesword/woodshovel/woodsword
 torch
 torch_animated
 torch_on_ceiling
@@ -136,7 +135,6 @@ soil
 soil_wet
 soil_wet_side
 string
-tool_bronzehoe/steelhoe/stonehoe/woodhoe
 wheat_1/2/3/4/5/6/7/8
 wheat_seed
 
