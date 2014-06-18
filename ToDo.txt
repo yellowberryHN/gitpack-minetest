@@ -18,8 +18,6 @@ book
 brick
 bronze_block
 bronze_ingot
-cactus_side
-cactus_top
 chest_front
 chest_side
 chest_top
@@ -31,7 +29,6 @@ coal_lump
 copper_block
 copper_ingot
 copper_lump
-diamond
 dry_shrub
 fence
 furnace_bottom
