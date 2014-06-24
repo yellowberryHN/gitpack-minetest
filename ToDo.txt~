@@ -4,13 +4,18 @@ This is a list of textures that need to be completed to encompass the whole of m
 High priority:
 ================================
 
-None at the moment!
+default_jungletree
+default_jungletree_top
+default_junglewood
+default_jungleleaves
 
 ================================
 In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
+book
+brick
 bronze_block
 bronze_ingot
 chest_front
