@@ -4,18 +4,13 @@ This is a list of textures that need to be completed to encompass the whole of m
 High priority:
 ================================
 
-default_jungletree
-default_jungletree_top
-default_junglewood
-default_jungleleaves
+None at the moment!
 
 ================================
 In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
 
-book
-brick
 bronze_block
 bronze_ingot
 chest_front
@@ -45,8 +40,6 @@ iron_lump
 junglegrass
 ladder
 mese_block
-mese_crystal
-mese_crystal_fragment
 mossy_cobble
 nc_back
 nc_front

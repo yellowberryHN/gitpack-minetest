@@ -39,9 +39,6 @@ gold_lump
 iron_lump
 junglegrass
 ladder
-mese_block
-mese_crystal
-mese_crystal_fragment
 mossy_cobble
 nc_back
 nc_front
