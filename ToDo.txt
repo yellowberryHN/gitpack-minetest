@@ -3,20 +3,33 @@ This is a list of textures that need to be completed to encompass the whole of m
 ================================
 High priority:
 ================================
-
-None at the moment!
-
-================================
-In default:
-================================
-Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
-
-bronze_block
-bronze_ingot
+apple_iron
 chest_front
 chest_side
 chest_top
 chest_lock
+cooked_rat
+dungeon_master
+fireball
+firefly
+oerkki1
+oerkki1_damaged
+rat
+sign_wall
+torch
+torch_animated
+torch_on_ceiling
+torch_on_ceiling_animated
+torch_on_floor
+torch_on_floor_animated
+
+================================
+In default:
+================================
+Note: append 'default_' to the front of all of these names except those marked with an * (For this group only!)
+
+bronze_block
+bronze_ingot
 clay_brick
 clay_lump
 coal_block
@@ -51,15 +64,8 @@ rail_crossing
 rail_curved
 rail_tjunction
 scorched_stuff
-sign_wall
 steel_block
 steel_ingot
-torch
-torch_animated
-torch_on_ceiling
-torch_on_ceiling_animated
-torch_on_floor
-torch_on_floor_animated
 
 ================================
 In bones:
@@ -75,7 +81,7 @@ In bucket:
 ================================
 In doors:
 ================================
-Note: append 'doors_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+Note: append 'doors_' to the front of all of these names except those marked with an * (For this group only!)
 
 brown
 gray
@@ -89,7 +95,7 @@ wood_b
 ================================
 In dye:
 ================================
-Note: append 'dye_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+Note: append 'dye_' to the front of all of these names except those marked with an * (For this group only!)
 
 black
 blue
@@ -109,7 +115,7 @@ yellow
 ================================
 In farming:
 ================================
-Note: append 'farming_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+Note: append 'farming_' to the front of all of these names except those marked with an * (For this group only!)
 
 bread
 cotton_1/2/3/4/5/6/7/8
@@ -125,6 +131,7 @@ wheat_seed
 ================================
 In fire:
 ================================
+Note: append 'fire_' to the front of all of these names except those marked with an * (For this group only!)
 
 fire_basic_flame
 fire_basic_flame_animated
@@ -139,14 +146,7 @@ In flowers:
 In legacy:
 ================================
 
-apple_iron
-cooked_rat
-dungeon_master
-fireball
-firefly
-oerkki1
-oerkki1_damaged
-rat
+--all this is HP
 
 ================================
 In screwdriver:
@@ -158,7 +158,7 @@ tool_mode1/2/3/4
 ================================
 In vessels:
 ================================
-Note: append 'vessels_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+Note: append 'vessels_' to the front of all of these names except those marked with an * (For this group only!)
 
 drinking_glass
 drinking_glass_inv
